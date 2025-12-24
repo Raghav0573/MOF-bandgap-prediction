@@ -1,6 +1,8 @@
 # MOF bandgap prediction
 This repository is my solution to the A1 problem statement of the ML4Science workshop conducted at IIIT Hyderabad in 2025.
-![Uploading Gemini_Generated_Image_titt84titt84titt.png…]()
+<p align="center">
+  <img src="acsf_autoencoder_arch.png" alt="ACSF Autoencoder Architecture" width="800">
+</p>
 
 
 Use the [Google Drive link](https://drive.google.com/drive/folders/10eYYGBNEln7u3WORuh410OSX1LQam3rf?usp=sharing) to download the model weight, training data and scaler.pkl files. 
